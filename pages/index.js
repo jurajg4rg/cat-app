@@ -12,6 +12,7 @@ export default function Home() {
           objectFit="cover"
           src={cat1}
           alt="Picture of Cat1"
+          unoptimized={true}
           layout="fill"
           priority
         />
@@ -21,6 +22,7 @@ export default function Home() {
           objectFit="cover"
           src={cat2}
           alt="Picture of Cat2"
+          unoptimized={true}
           layout="fill"
           priority
         />
@@ -30,6 +32,7 @@ export default function Home() {
           objectFit="cover"
           src={cat3}
           alt="Picture of Cat3"
+          unoptimized={true}
           layout="fill"
           priority
         />
